@@ -7,7 +7,7 @@
 Команда для выполнения скрипта по развертыванию VPN сервера
 
 ```bash
-«wget -q -O vpn_crypton.sh https://raw.githubusercontent.com/mxa27/vpn_crypton/main/vpn_crypton.sh && chmod +x vpn_crypton.sh && sudo /bin/bash vpn_crypton.sh»
+«wget -q -O vpn_crypton.sh https://raw.githubusercontent.com/MukievMukhammad/vpn_crypton/main/vpn_crypton.sh && chmod +x vpn_crypton.sh && sudo /bin/bash vpn_crypton.sh»
 ```
 
 После завершения настройки на экране должны появится 10 наборов данных, состоящих из двух абзацев: [Interface] и [Peer] и QR-кода, в который «зашиты» эти же данные. **Сохранить эти данные себе!**
